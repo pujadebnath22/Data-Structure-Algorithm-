@@ -3,8 +3,8 @@
 Platform: LeetCode  
 Difficulty: Easy  
 Language: Choose a type  
-Problem Link: https://leetcode.com/problems/two-sum/submissions/2033964798/  
-Submitted At: 2026-06-15
+Problem Link: https://leetcode.com/problems/two-sum/submissions/2047134029/  
+Submitted At: 2026-06-26
 
 ---
 
