@@ -3,8 +3,8 @@
 Platform: LeetCode  
 Difficulty: Hard  
 Language: Choose a type  
-Problem Link: https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/2049337298/?__cf_chl_tk=zXg4SwZeKWZsetR7QEGyiEdKbvZrvTew96jFMUiVcX4-1782676433-1.0.1.1-npHXBu5Uum1g9quAUZ4q5ggL7J75ky6W42qtpN0_sK4  
-Submitted At: 2026-06-28
+Problem Link: https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/2051553387/  
+Submitted At: 2026-06-30
 
 ---
 
