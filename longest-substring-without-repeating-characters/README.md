@@ -3,7 +3,7 @@
 Platform: LeetCode  
 Difficulty: Medium  
 Language: Choose a type  
-Problem Link: https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2053973034/  
+Problem Link: https://leetcode.com/problems/longest-palindromic-substring/submissions/2053973519/  
 Submitted At: 2026-07-02
 
 ---
